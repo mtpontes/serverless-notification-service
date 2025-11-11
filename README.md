@@ -10,7 +10,7 @@ In addition, the notification is parameterized according to the preferences of e
 
 ![application-schema](/assets/application.svg)
 
-## 🛠️ Tecnologies
+## Tecnologies
 
 ### Tools
 - Python 3.13
@@ -30,7 +30,7 @@ In addition, the notification is parameterized according to the preferences of e
 - Github Actions
 
 <details>
-    <summary><h2>📖 Details</h2></summary>
+    <summary><h2>Details</h2></summary>
 
 ### How it works
 A scheduler in Event Bridge is configured to periodically (e.g. daily) trigger an event that calls the `notification-publisher` Lambda function.
@@ -75,7 +75,7 @@ Step by step:
 </details>
 
 <details>
-  <summary><h2>🚀 How to run</h2></summary>
+  <summary><h2>How to run</h2></summary>
 
 ### Prerequisites
 - AWS access key (third party service)
